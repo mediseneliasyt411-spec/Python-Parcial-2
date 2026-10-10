@@ -19,5 +19,5 @@ print("Tiene identificación:", tiene_identificacion,
       "| tipo:", type(tiene_identificacion).__name__)
 print("Es estudiante:", es_estudiante)
 
-# RESULTADO ESPERADO:
+# RESULTADO:
 # Se muestran los valores y los tipos str, int, float y bool.
