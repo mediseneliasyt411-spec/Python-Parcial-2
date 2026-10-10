@@ -26,12 +26,5 @@ Reforzar los fundamentos de Python mediante ejemplos ejecutables, explicación d
 - `12_break_continue.py`: control de ciclos.
 - `13_calculadora_calificaciones.py`: práctica integradora solicitada al final del material
 
-## Estructura de documentación de los ejemplos
-Cada archivo contiene:
-1. **Objetivo** del tema.
-2. **Explicación** breve.
-3. **Código comentado**.
-4. **Resultado esperado** o indicación de lo que se muestra.
-
 ## Práctica final: calculadora de calificaciones
 El programa solicita el nombre del estudiante y tres calificaciones, las convierte a `float`, las guarda en una colección, calcula el promedio y muestra si aprobó (promedio mayor o igual a 6.0) o reprobó.
