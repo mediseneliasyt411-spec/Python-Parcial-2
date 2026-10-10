@@ -17,7 +17,7 @@ calificaciones = [
 
 promedio = sum(calificaciones) / len(calificaciones)
 
-print("\n--- REPORTE DE CALIFICACIONES ---")
+print("\n REPORTE DE CALIFICACIONES")
 print("Estudiante:", nombre)
 print("Calificaciones:", calificaciones)
 print(f"Promedio: {promedio:.2f}")
@@ -27,6 +27,6 @@ if promedio >= 6.0:
 else:
     print("Resultado: REPROBÓ")
 
-# RESULTADO ESPERADO:
+# RESULTADO:
 # Se presenta un reporte con el nombre, las tres calificaciones,
 # el promedio y el resultado académico.
